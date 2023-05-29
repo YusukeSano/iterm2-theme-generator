@@ -1,0 +1,36 @@
+{
+  "Normal": {
+    "Black": "#dcdfe7",
+    "Red": "#cc517a",
+    "Green": "#668e3d",
+    "Yellow": "#c57339",
+    "Blue": "#2d539e",
+    "Magenta": "#7759b4",
+    "Cyan": "#3f83a6",
+    "White": "#33374c"
+  },
+  "Bright": {
+    "Black": "#8389a3",
+    "Red": "#cc3768",
+    "Green": "#598030",
+    "Yellow": "#b6662d",
+    "Blue": "#22478e",
+    "Magenta": "#6845ad",
+    "Cyan": "#327698",
+    "White": "#262a3f"
+  },
+  "Basic": {
+    "Foreground": "#33374c",
+    "Background": "#e8e9ec",
+    "Bold": "#262a3f",
+    "Links": "#2d539e",
+    "Selection": "#cacdd7",
+    "SelectedText": "#33374c",
+    "Badge": "#2d539e80",
+    "Tab": "",
+    "Underline": "",
+    "Cursor": "#33374c",
+    "CursorText": "#e8e9ec",
+    "CursorGuide": "#dcdfe7"
+  }
+}
