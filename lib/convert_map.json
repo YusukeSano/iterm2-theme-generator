@@ -1,0 +1,36 @@
+{
+  "Normal": {
+    "Black": "Ansi 0 Color",
+    "Red": "Ansi 1 Color",
+    "Green": "Ansi 2 Color",
+    "Yellow": "Ansi 3 Color",
+    "Blue": "Ansi 4 Color",
+    "Magenta": "Ansi 5 Color",
+    "Cyan": "Ansi 6 Color",
+    "White": "Ansi 7 Color"
+  },
+  "Bright": {
+    "Black": "Ansi 8 Color",
+    "Red": "Ansi 9 Color",
+    "Green": "Ansi 10 Color",
+    "Yellow": "Ansi 11 Color",
+    "Blue": "Ansi 12 Color",
+    "Magenta": "Ansi 13 Color",
+    "Cyan": "Ansi 14 Color",
+    "White": "Ansi 15 Color"
+  },
+  "Basic": {
+    "Foreground": "Foreground Color",
+    "Background": "Background Color",
+    "Bold": "Bold Color",
+    "Links": "Link Color",
+    "Selection": "Selection Color",
+    "SelectedText": "Selected Text Color",
+    "Badge": "Badge Color",
+    "Tab": "Tab Color",
+    "Underline": "Underline Color",
+    "Cursor": "Cursor Color",
+    "CursorText": "Cursor Text Color",
+    "CursorGuide": "Cursor Guide Color"
+  }
+}

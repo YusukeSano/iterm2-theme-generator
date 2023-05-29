@@ -1,0 +1,36 @@
+{
+  "Normal": {
+    "Black": "",
+    "Red": "",
+    "Green": "",
+    "Yellow": "",
+    "Blue": "",
+    "Magenta": "",
+    "Cyan": "",
+    "White": ""
+  },
+  "Bright": {
+    "Black": "",
+    "Red": "",
+    "Green": "",
+    "Yellow": "",
+    "Blue": "",
+    "Magenta": "",
+    "Cyan": "",
+    "White": ""
+  },
+  "Basic": {
+    "Foreground": "",
+    "Background": "",
+    "Bold": "",
+    "Links": "",
+    "Selection": "",
+    "SelectedText": "",
+    "Badge": "",
+    "Tab": "",
+    "Underline": "",
+    "Cursor": "",
+    "CursorText": "",
+    "CursorGuide": ""
+  }
+}
