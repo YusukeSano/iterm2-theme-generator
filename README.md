@@ -23,7 +23,8 @@ Generate a theme with both light and dark modes:
 python generate.py --light [light_theme_file.json] --dark [dark_theme_file.json]
 ```
 
-Note: Themes with both light and dark modes are only available in iTerm2@3.5 (beta) or later versions.
+> [!IMPORTANT]
+> Themes with both light and dark modes are only available in iTerm2@3.5 or later versions.
 
 ## Arguments
 
@@ -44,6 +45,8 @@ python generate.py --light example/iceberg_light.json --dark example/iceberg_dar
 ```
 
 When you run this command, it will generate an `Iceberg.itermcolors` file.
+
+The actual `Iceberg.itermcolors` file can be found in [Iceberg for iTerm2](https://github.com/YusukeSano/iterm2-iceberg).
 
 ## License
 
