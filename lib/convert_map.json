@@ -22,6 +22,7 @@
   "Basic": {
     "Foreground": "Foreground Color",
     "Background": "Background Color",
+    "MatchBackground": "Match Background Color",
     "Bold": "Bold Color",
     "Links": "Link Color",
     "Selection": "Selection Color",

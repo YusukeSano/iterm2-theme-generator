@@ -22,6 +22,7 @@
   "Basic": {
     "Foreground": "#c6c8d1",
     "Background": "#161821",
+    "MatchBackground": "#e2a478",
     "Bold": "#d2d4de",
     "Links": "#84a0c6",
     "Selection": "#272c42",
